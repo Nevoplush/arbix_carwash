@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="ArBix_CarWash.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_Main"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ArBix_CarWash_Main"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="52"/>
+        <CursorPos X="14" Y="74"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="arbix_carwash_login.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form_Login"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ArBix_CarWash_Login"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="21" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="2" Column="59"/>
+      </Position1>
+      <Position2>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="36" Column="39" TopLine="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="25" Column="78" TopLine="11"/>
+      </Position3>
+      <Position4>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="27" Column="78" TopLine="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="29" Column="78" TopLine="12"/>
+      </Position5>
+      <Position6>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="47" Column="14" TopLine="22"/>
+      </Position6>
+      <Position7>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="54" Column="21" TopLine="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="52" Column="113" TopLine="30"/>
+      </Position8>
+      <Position9>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="53" TopLine="28"/>
+      </Position9>
+      <Position10>
+        <Filename Value="arbix_carwash_login.pas"/>
+      </Position10>
+      <Position11>
+        <Filename Value="arbix_carwash_login.pas"/>
+        <Caret Line="34" Column="3" TopLine="9"/>
+      </Position11>
+      <Position12>
+        <Filename Value="arbix_carwash_login.pas"/>
+        <Caret Line="35" Column="3" TopLine="9"/>
+      </Position12>
+      <Position13>
+        <Filename Value="arbix_carwash_login.pas"/>
+        <Caret Line="36" Column="3" TopLine="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="arbix_carwash_login.pas"/>
+        <Caret Line="11" Column="21" TopLine="9"/>
+      </Position14>
+      <Position15>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="33" Column="28" TopLine="17"/>
+      </Position15>
+      <Position16>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="58" Column="22" TopLine="37"/>
+      </Position16>
+      <Position17>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="62" Column="24" TopLine="43"/>
+      </Position17>
+      <Position18>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="39" Column="26" TopLine="28"/>
+      </Position18>
+      <Position19>
+        <Filename Value="arbix_carwash_main.pas"/>
+        <Caret Line="50" Column="7" TopLine="22"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

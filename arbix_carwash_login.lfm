@@ -1,0 +1,83 @@
+object Form_Login: TForm_Login
+  Left = 626
+  Height = 216
+  Top = 260
+  Width = 320
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'ArBix: авторизация'
+  ClientHeight = 216
+  ClientWidth = 320
+  Position = poMainFormCenter
+  LCLVersion = '1.6.4.0'
+  object ComboBox_Login_Person: TComboBox
+    Left = 16
+    Height = 23
+    Top = 32
+    Width = 288
+    ItemHeight = 15
+    OnChange = ComboBox_Login_PersonChange
+    TabOrder = 0
+    Text = 'ComboBox_Login_Person'
+  end
+  object Edit_Login_Password: TEdit
+    Left = 16
+    Height = 23
+    Top = 88
+    Width = 288
+    EchoMode = emPassword
+    PasswordChar = '#'
+    TabOrder = 1
+    Text = 'Edit_Login_Password'
+  end
+  object Button_Login_Enter: TButton
+    Left = 16
+    Height = 32
+    Top = 136
+    Width = 80
+    Caption = 'Вход'
+    TabOrder = 2
+  end
+  object Button_Login_Cancel: TButton
+    Left = 224
+    Height = 32
+    Top = 136
+    Width = 80
+    Caption = 'Отмена'
+    TabOrder = 3
+  end
+  object Label_Login_Password: TLabel
+    Left = 16
+    Height = 15
+    Top = 70
+    Width = 49
+    Caption = 'Пароль :'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label_Login_Person: TLabel
+    Left = 16
+    Height = 15
+    Top = 14
+    Width = 88
+    Caption = 'Пользователь :'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label1: TLabel
+    Cursor = crHandPoint
+    Left = 16
+    Height = 15
+    Top = 192
+    Width = 288
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Настройка подключения к БД'
+    Font.Color = clBlue
+    Font.Style = [fsBold, fsUnderline]
+    ParentColor = False
+    ParentFont = False
+  end
+end
